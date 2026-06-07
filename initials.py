@@ -2,12 +2,12 @@
 # Description: Print out my initials in large stylized letters.
 # Assignment Number: 1
 #
-# Name: Victor Uriel Doku
+# Name: Victor Uriel Nii Laryea Doku
 # STUDENT ID: 2425402390
 # Email: YOUR_EMAIL@gctu.edu.gh
 # Grader: Augustus Buckman
 #
-# On my honor, Victor Uriel Doku, this programming assignment is my own work
+# On my honor, Victor Uriel Nii Laryea Doku, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
 
